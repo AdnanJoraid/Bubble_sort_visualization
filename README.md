@@ -1,4 +1,4 @@
-# Bubble_sort_visualization
+# Bubble Sort Visualization
 Visualizing bubble sort algorithm using javascript (p5.js) 
 
 ## Quick view of the project
