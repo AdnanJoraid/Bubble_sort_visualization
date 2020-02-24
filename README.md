@@ -8,7 +8,7 @@ Visualizing bubble sort algorithm using javascript (p5.js)
 ### What is Bubble sort? 
 
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping elements if they are in the wrong order.
-For example, having an ordered list, we can start sorting it from smallest to largest by checking each element and its neighbor. In the following list, we have 3 as the first element and 1 as the second:
+For example, having unordered list, we can start sorting it from smallest to largest by checking each element and its neighbor. In the following list, we have 3 as the first element and 1 as the second:
 
 <img width="909" alt="Screen Shot 2020-02-23 at 10 38 24 PM" src="https://user-images.githubusercontent.com/59744727/75127738-b62d7a80-568e-11ea-89f1-70a76b6f7225.png">
 
